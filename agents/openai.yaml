@@ -1,0 +1,3 @@
+interface:
+  display_name: "Paper Project Auditor"
+  short_description: "Risk-driven audit of paper code and results"
